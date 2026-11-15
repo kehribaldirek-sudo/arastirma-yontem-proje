@@ -1,0 +1,45 @@
+{
+  "veri_kaynagi": "UCI Student Performance (student-mat.csv), DOI 10.24432/C5TG7T, CC BY 4.0",
+  "egitim_sayisi": 316,
+  "test_sayisi": 79,
+  "random_state": 42,
+  "hedef": "G3 >= 10 -> basarili",
+  "sonuclar": [
+    {
+      "Deney": "A (G1,G2 dahil)",
+      "Model": "Çoğunluk (baseline)",
+      "Doğruluk": 0.6709,
+      "F1 (başarılı sınıf)": 0.803
+    },
+    {
+      "Deney": "A (G1,G2 dahil)",
+      "Model": "Karar Ağacı (max_depth=4)",
+      "Doğruluk": 0.8734,
+      "F1 (başarılı sınıf)": 0.898
+    },
+    {
+      "Deney": "A (G1,G2 dahil)",
+      "Model": "Rastgele Orman (200 ağaç)",
+      "Doğruluk": 0.8734,
+      "F1 (başarılı sınıf)": 0.9
+    },
+    {
+      "Deney": "B (G1,G2 hariç)",
+      "Model": "Çoğunluk (baseline)",
+      "Doğruluk": 0.6709,
+      "F1 (başarılı sınıf)": 0.803
+    },
+    {
+      "Deney": "B (G1,G2 hariç)",
+      "Model": "Karar Ağacı (max_depth=4)",
+      "Doğruluk": 0.6456,
+      "F1 (başarılı sınıf)": 0.7455
+    },
+    {
+      "Deney": "B (G1,G2 hariç)",
+      "Model": "Rastgele Orman (200 ağaç)",
+      "Doğruluk": 0.6582,
+      "F1 (başarılı sınıf)": 0.7769
+    }
+  ]
+}

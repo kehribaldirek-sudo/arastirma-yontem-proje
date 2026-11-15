@@ -1,0 +1,7 @@
+Deney,Model,Doğruluk,F1 (başarılı sınıf)
+"A (G1,G2 dahil)",Çoğunluk (baseline),0.6709,0.803
+"A (G1,G2 dahil)",Karar Ağacı (max_depth=4),0.8734,0.898
+"A (G1,G2 dahil)",Rastgele Orman (200 ağaç),0.8734,0.9
+"B (G1,G2 hariç)",Çoğunluk (baseline),0.6709,0.803
+"B (G1,G2 hariç)",Karar Ağacı (max_depth=4),0.6456,0.7455
+"B (G1,G2 hariç)",Rastgele Orman (200 ağaç),0.6582,0.7769

@@ -1,0 +1,9 @@
+{
+  "veri_kaynagi": "scikit-learn yerleşik Iris veri seti",
+  "egitim_sayisi": 120,
+  "test_sayisi": 30,
+  "algoritma": "DecisionTreeClassifier",
+  "max_depth": 3,
+  "random_state": 42,
+  "test_dogrulugu": 0.9667
+}
