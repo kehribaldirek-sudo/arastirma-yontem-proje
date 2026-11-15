@@ -1,7 +1,7 @@
-# Öğrenci Akademik Başarısını Etkileyen Faktörlerin Veri Analizi ve Makine Öğrenmesi ile İncelenmesi
+﻿# Öğrenci Akademik Başarısını Etkileyen Faktörlerin Veri Analizi ve Makine Öğrenmesi ile İncelenmesi
 
 **Ders:** Araştırma Yöntem ve Teknikleri (TBY1001) – Marmara Üniversitesi UZEM, Bilgisayar Programcılığı
-**Öğrenci:** Kehribal Öztürk • **No:** o361526605 • **Dönem:** 2026 Güz
+**Öğrenci:** Kehribal Öztürk • **No:** 361526605 • **Dönem:** 2026 Güz
 **Öğretim elemanı:** Dr. Öğr. Üyesi Sezen BAL
 
 > Bu çalışmada **anket veya insan verisi toplanmamıştır.** Yalnızca açık erişimli, lisanslı ve alıntılanabilir bir veri seti kullanılmıştır.
@@ -135,3 +135,4 @@ Bireysel çalışma: Kehribal Öztürk.
 
 ## 16. Lisans
 Veri: CC BY 4.0 (Cortez, 2014). Kod ve rapor: öğrenci ödevi olarak MIT lisansıyla paylaşılabilir.
+
