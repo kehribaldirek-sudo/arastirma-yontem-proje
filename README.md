@@ -126,9 +126,9 @@ docs/        proje notları
 | Hipotez testleri | Planlandı |
 
 ## 14. Colab bağlantıları
-- Hafta 6: `COLAB_HAFTA6_LINKI`
-- Hafta 7 (proje): `COLAB_HAFTA7_LINKI`
-- Hafta 7 (Iris): `COLAB_IRIS_LINKI`
+- Hafta 6: [Hafta 6 Veri Analizi Colab Not Defteri](https://colab.research.google.com/github/kehribaldirek-sudo/arastirma-yontem-proje/blob/main/notebooks/Hafta6_Proje_Veri_Analizi.ipynb)
+- Hafta 7 (proje): [Hafta 7 Makine Öğrenmesi Colab Not Defteri](https://colab.research.google.com/github/kehribaldirek-sudo/arastirma-yontem-proje/blob/main/notebooks/Hafta7_Proje_Makine_Ogrenmesi.ipynb)
+- Hafta 7 (Iris): [Hafta 7 Iris Uygulaması Colab Not Defteri](https://colab.research.google.com/github/kehribaldirek-sudo/arastirma-yontem-proje/blob/main/notebooks/Hafta7_Iris_Ogrenci_Colab_ArastirmaYontem.ipynb)
 
 ## 15. Katkı
 Bireysel çalışma: Kehribal Öztürk.
