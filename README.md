@@ -78,7 +78,7 @@ Ortaöğretimde öğrencilerin matematik dersindeki final başarısı, yalnızca
 - **Yalnızca sosyal/demografik değişkenlerle** model, çoğunluk sınıfı tahmininin (0,671) altında kalmıştır. Bu veri ve bu basit modellerle bu özellikler tek başına yeterli değildir.
 - Betimsel bulgu: ortalama final notu 10,42/20; çalışma süresi arttıkça ortalama not genel olarak artar; geçmiş başarısızlık arttıkça ortalama not düşer (0 başarısızlık: 11,25; 3 başarısızlık: 5,69).
 
-## 10. Literatür (hepsi gerçek, DOI/künye ile)
+## 10. Literatür Taraması ve Kaynakça
 1. Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. *Proceedings of the 5th Future Business Technology Conference (FUBUTEC 2008)*, 5–12. Porto: EUROSIS. (Bu bildirinin ayrı bir DOI'si yoktur.)
 2. Cortez, P. (2014). *Student Performance* [Veri seti]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T
 3. Romero, C., & Ventura, S. (2010). Educational data mining: A review of the state of the art. *IEEE Transactions on Systems, Man, and Cybernetics, Part C*, 40(6), 601–618. https://doi.org/10.1109/TSMCC.2010.2053532
