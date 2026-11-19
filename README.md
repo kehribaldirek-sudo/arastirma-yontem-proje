@@ -136,3 +136,8 @@ Bireysel çalışma: Kehribal Öztürk.
 ## 16. Lisans
 Veri: CC BY 4.0 (Cortez, 2014). Kod ve rapor: öğrenci ödevi olarak MIT lisansıyla paylaşılabilir.
 
+
+
+## 17. Sunum Videosu
+- Proje Tanıtım Videosu: [Google Drive Bağlantısı](https://drive.google.com/file/d/1mc9k7k5CYMAGBi23XbxYhd01TMFRw4G0/view?usp=sharing)
+
